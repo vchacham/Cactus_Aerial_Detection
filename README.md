@@ -1,3 +1,6 @@
+# Cactus Aerial Detection
+## The problem:
+
 To assess the impact of climate change on Earth's flora and fauna, it is vital to quantify how human activities such as logging, mining, and agriculture are impacting our protected natural areas. Researchers in Mexico have created the VIGIA project, which aims to build a system for autonomous surveillance of protected areas. A first step in such an effort is the ability to recognize the vegetation inside the protected areas. In this competition, you are tasked with creation of an algorithm that can identify a specific type of cactus in aerial imagery.
 
 This is a kernels-only competition, meaning you must submit predictions using Kaggle Kernels. Read the basics here.
@@ -9,3 +12,4 @@ Efren López-Jiménez, Juan Irving Vasquez-Gomez, Miguel Angel Sanchez-Acevedo, 
 
 Acknowledgements to Consejo Nacional de Ciencia y Tecnología. Project cátedra 1507. Instituto Politècnico Nacional. Universidad de la Cañada. Contributors: Eduardo Armas Garca, Rafael Cano Martnez and Luis Cresencio Mota Carrera. J.I. Vasquez-Gomez, JC. Herrera Lozada. Abril Uriarte, Miguel Sanchez.
 
+## This is attempted to solve using fastai's vision package and resnet.
